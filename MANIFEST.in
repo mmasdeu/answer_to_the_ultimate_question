@@ -1,0 +1,6 @@
+prune answer_to_the_ultimate_question
+include VERSION
+include answer_to_the_ultimate_question/*.py
+include answer_to_the_ultimate_question/*.pyx
+include answer_to_the_ultimate_question/*.pxd
+
